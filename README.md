@@ -4,4 +4,4 @@
 - 💻 Amateur programmer
 - 🗒️ Blog owner @ [Yerbaholic Student](https://yerbaholic.online "Yerbaholic.Online")
 - 🧉 Yerba Mate Enthusiast
-- 🎮 Amateru sim racer in free time
+- 🎮 Amateur sim racer in free time
