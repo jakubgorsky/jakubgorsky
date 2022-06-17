@@ -1,7 +1,7 @@
 ## Hi there, Jack here 👋
 
 What am I currently working on:
-  - [ ] a copy of Battleships board game, namely [`battleships++`](https://github.com/jakubgorsky/battleships_game "battleships++ repo link")
+  - [x] a copy of Battleships board game, namely [`battleships++`](https://github.com/jakubgorsky/battleships_game "battleships++ repo link")
   - [ ] learning OpenGL. You can see my progress in the [`learning_opengl repo`](https://github.com/jakubgorsky/learning_opengl "learning_opengl repo link")
 
 ### About me:
