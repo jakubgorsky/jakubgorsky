@@ -2,7 +2,7 @@
 
 What am I currently working on:
   - [ ] Microsoft Azure AZ-500 Certification (Microsoft Azure Security Technologies)
-  - [ ] a budget copy of Grafana (really, just simple HW info + Software info of machine with sync to servers and simple GUI) [`budget_grafana`](https://github.com/jakubgorsky/budget_grafana "budget_grafana repo link")
+  - [ ] a budget copy of Grafana for Scripting Languages Course (really, just simple HW info + Software info of machine with sync to servers and simple GUI) [`budget_grafana`](https://github.com/jakubgorsky/budget_grafana "budget_grafana repo link")
   - [x] a copy of Battleships board game, namely [`battleships++`](https://github.com/jakubgorsky/battleships_game "battleships++ repo link")
   - [ ] learning OpenGL. You can see my progress in the [`learning_opengl repo`](https://github.com/jakubgorsky/learning_opengl "learning_opengl repo link")
 
