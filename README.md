@@ -6,8 +6,8 @@ What am I currently working on:
   - [ ] learning OpenGL. You can see my progress in the [`learning_opengl repo`](https://github.com/jakubgorsky/learning_opengl "learning_opengl repo link")
 
 ### About me:
-- 🏫 3nd Term Cyber Sec student at Wroclaw University of Science and Techology
-- Cyber sec intern at Sii Poland
+- 🏫 3rd Term Cyber Sec student at Wroclaw University of Science and Techology
+- ☁️ Cyber Sec intern at Sii Poland
 - 💻 Amateur programmer
 - 🧉 Yerba Mate Enthusiast
 - 🎮 Amateur sim racer in free time
