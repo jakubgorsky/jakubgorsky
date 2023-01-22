@@ -1,20 +1,21 @@
 ## Hi there, Jack here 👋
 
 What am I currently working on:
+  - [ ] a budget copy of Grafana (really, just simple HW info + Software info of machine with sync to servers and simple GUI) [`budget_grafana`](https://github.com/jakubgorsky/budget_grafana "budget_grafana repo link")
   - [x] a copy of Battleships board game, namely [`battleships++`](https://github.com/jakubgorsky/battleships_game "battleships++ repo link")
   - [ ] learning OpenGL. You can see my progress in the [`learning_opengl repo`](https://github.com/jakubgorsky/learning_opengl "learning_opengl repo link")
 
 ### About me:
-- 🏫 2nd Term Cyber Sec student at Wroclaw University of Science and Techology
+- 🏫 3nd Term Cyber Sec student at Wroclaw University of Science and Techology
+- Cyber sec intern at Sii Poland
 - 💻 Amateur programmer
-- 🗒️ Blog owner @ [Yerbaholic Student](https://yerbaholic.online "Yerbaholic.Online")
 - 🧉 Yerba Mate Enthusiast
 - 🎮 Amateur sim racer in free time
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kuba_gorsky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kuba_gorsky" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/jakub-g%c3%b3rski-b9a52923b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jakub-g%c3%b3rski-b9a52923b/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jakub-gorsky/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jakub-gorsky/" height="30" width="40" /></a>
 <a href="https://instagram.com/yerbaholicstudent" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yerbaholic_student" height="30" width="40" /></a>
 </p>
 
