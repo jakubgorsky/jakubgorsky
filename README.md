@@ -29,6 +29,6 @@ What am I currently working on:
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" height=220rem src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakubgorsky&theme=react />
+  <img align="center" height=220rem src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakubgorsky&theme=react "/>
 </a>
 </div>
