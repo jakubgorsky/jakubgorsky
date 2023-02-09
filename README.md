@@ -1,7 +1,7 @@
 ## Hi there, Jack here 👋
 
 What am I currently working on:
-  - [ ] Personal budgeting and finance app [`financial_tracker`](https://github.com/jakubgorsky/financial_tracker "financial_tracker repo link")
+  - [ ] Personal budgeting and finance app [`financial-tracker`](https://github.com/jakubgorsky/financial-tracker "financial-tracker repo link")
   - [ ] Microsoft Azure AZ-500 Certification (Microsoft Azure Security Technologies)
   - [ ] a budget copy of Grafana for Scripting Languages Course (really, just simple HW info + Software info of machine with sync to servers and simple GUI) [`budget_grafana`](https://github.com/jakubgorsky/budget_grafana "budget_grafana repo link")
   - [x] a copy of Battleships board game, namely [`battleships++`](https://github.com/jakubgorsky/battleships_game "battleships++ repo link")
