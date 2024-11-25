@@ -8,8 +8,8 @@ What am I currently working on:
   - [ ] ~learning OpenGL. You can see my progress in the [`learning_opengl repo`](https://github.com/jakubgorsky/learning_opengl "learning_opengl repo link")~ <b>Project currently on a halt.</b>
 
 ### About me:
-- 🏫 5th Term Cyber Sec student at Wroclaw University of Science and Techology
-- 💻 Amateur programmer
+- 🏫 7th Term Cyber Sec student at Wroclaw University of Science and Techology
+- 💻 Programmer
 - 🎮 Amateur sim racer in free time
 
 <h3 align="left">Connect with me:</h3>
